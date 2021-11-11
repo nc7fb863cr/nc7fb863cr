@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ricky
-- 👀 I’m interested in App Development
-- 🌱 I’m currently learning Web Development
+- 👀 I’m interested in App Development (hybrid development mainly)
+- 🌱 I’m currently learning Swift, trying to improve the knowledge of native software development of IOS.
 - 💞️ I’m looking to collaborate on ...
 
 <!---
