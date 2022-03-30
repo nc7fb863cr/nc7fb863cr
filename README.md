@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Ricky
-- 👀 I’m interested in App Development (hybrid development mainly)
+- 👀 I’m interested in App Development
 - 🌱 I’m currently learning Swift, trying to improve the knowledge of native software development of IOS.
-- 💞️ I’m looking to collaborate on ...
 
 <!---
 nc7fb863cr/nc7fb863cr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
